@@ -144,7 +144,7 @@ Highly motivated and enthusiastic fresher with a strong interest in software dev
             </ul>
         </section>
     </div>
- <p style="color: black;text-align: center;font-size: *-large;font-style: italic;" ><b>A K SABARIDEEPAK </b></p>
+ <p style="color: black;text-align: center;font-size: *-large;font-style: italic;" ><b>R SABARIDEEPAK </b></p>
             <p style="color: black;text-align: center;font-size: large;font-style: italic;"><span><b>&#64</b></span> Sabarideepak13@gmail.com</p>
             <p style="color: black;text-align: center;font-size: large;font-style: italic;"><span><b>&#9906</b></span> 2/135 DEVANAMPALAYAM KINATHUKADAVU COIMBATORE 642120.</p>
             <p style="color: black;text-align: center;font-size: large;font-style: italic;"><span><b>&#9990</b></span> Ph.xxxxxx0401</p>
